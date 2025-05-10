@@ -15,7 +15,7 @@ const Navbar = () => {
                 <Link to="/" className="text-gray-200 hover:text-gray-900">Home</Link>
                 <Link to="/about" className="text-gray-200 hover:text-gray-900">About</Link>
                 <Link to="/services" className="text-gray-200 hover:text-gray-900">Services</Link>
-                <Link to="/Contacts" className="text-gray-200 hover:text-gray-900">Contacts</Link>
+                <Link to="/contacts" className="text-gray-200 hover:text-gray-900">Contacts</Link>
               </div>
               <div className="md:hidden">
                 <button
@@ -34,9 +34,9 @@ const Navbar = () => {
           {isOpen && (
             <div className="md:hidden px-4 pb-4 space-y-2">
               <Link to="/" className="block text-gray-200 hover:text-gray-900">Home</Link>
-              <Link to="/About" className="block text-gray-200 hover:text-gray-900">About</Link>
-              <Link to="/Contacts" className="block text-gray-200 hover:text-gray-900">Contacts</Link>
-              <Link to="/Services" className="block text-gray-200 hover:text-gray-900">Services</Link>
+              <Link to="/about" className="block text-gray-200 hover:text-gray-900">About</Link>
+              <Link to="/contacts" className="block text-gray-200 hover:text-gray-900">Contacts</Link>
+              <Link to="/services" className="block text-gray-200 hover:text-gray-900">Services</Link>
             </div>
           )}
         </nav>
