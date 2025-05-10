@@ -4,7 +4,9 @@ import Navbar from '../components/Navbar'
 const About = () => {
   return (
    <>
-  <div>hello</div>
+   <div>
+    
+   </div>
    </>
   )
 }

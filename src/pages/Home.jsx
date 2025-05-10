@@ -8,7 +8,7 @@ import IconContainer from '../components/IconContainer';
 
 const Home = () => {
   return (
-    <div className='flex md:flex-row flex-col justify-between items-center bg-black text-white w-full font-serif p-4 md:px-20'>
+    <div className='flex md:flex-row flex-col justify-between items-center bg-black text-white w-full h-[665px] font-serif p-4 md:px-20'>
 
       <div className='md:ml-15 md:w-1/2 w-full px-8 flex flex-col justify-center'>
         <div className='font-extrabold md:text-[55px] text-[30px]'>Armelio Pashollari</div>
