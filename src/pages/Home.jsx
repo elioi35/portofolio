@@ -14,7 +14,7 @@ const Home = () => {
         <div className='font-extrabold md:text-[55px] text-[30px]'>Armelio Pashollari</div>
         <div className='font-extrabold md:text-[32px] text-[20px] mb-5'>Junior FullStack Developer</div>
         <p className='font-bold md:text-[16px] sm:text-[12] mb-5'>
-        Junior Level FullStact Developer. Good Knowledge in HTML, CSS, JS.Backend knowledge in Python.Ongoing training on MERN Technology. General knowledge in Git, GitHub.
+        Junior Level FullStact Developer. Good Knowledge in HTML, CSS, JS.Ongoing training on MERN Technology. General knowledge in Git, GitHub.
         </p>
         {/* <a href={CV} download='Regi' target='_blank'>
           <CustomButton title='Download CV'/>
