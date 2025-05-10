@@ -6,9 +6,9 @@ import { FaLinkedinIn } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import IconContainer from '../components/IconContainer';
 
-import.meta.env.VITE_EMAIL_INIT_PUBLIC_KEY
-import.meta.env.VITE_EMAIL_SERVICE_KEY
-import.meta.env.VITE_EMAIL_TEMPLATE_KEY
+import.meta.env.eqeDjyljWj93NN3M0
+import.meta.env.VITE_EMAIL_SERVICE_KE
+import.meta.env.VITE_EMAIL_TEMPLATE_KE
 
 const Contact = () => {
   const [name, setName] = useState('');
