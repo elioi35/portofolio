@@ -21,7 +21,7 @@ const Home = () => {
         </a> */}
 
         <div className='mt-12 lg:w-1/5 md:1/2 w-1/3 flex justify-between'>
-            <IconContainer link='https://www.facebook.com/profile.php?id=100078417577734' children={<FaFacebookF />}/>``
+            <IconContainer link='https://www.facebook.com/profile.php?id=100078417577734' children={<FaFacebookF />}/>
             <IconContainer link='https://www.linkedin.com/in/regi-mele-74ba54138/' children={<FaLinkedinIn />}/>
             <IconContainer link='https://github.com/RegiMele' children={<FaGithub />}/>
         </div>
