@@ -21,9 +21,9 @@ const About = () => {
         <h1 className="text-5xl font-bold text-[var(--main-color)] mb-12 text-center animate-fadeIn">About Me</h1>
         <div className="w-full max-w-4xl flex flex-col md:flex-row gap-8">
           <div className="flex-1 bg-gray-900 p-8 rounded-2xl border-2 border-[var(--main-color)] transform hover:shadow-[0_0_15px_#7cf03d] transition-all duration-300 animate-fadeIn">
-            <h2 className="text-3xl font-semibold text-white mb-4">Amarildo Gjata</h2>
+            <h2 className="text-3xl font-semibold text-white mb-4">Armelio Pashollari</h2>
             <p className="text-gray-300 text-base mb-4">
-              I'm a passionate Junior Full-Stack Developer with a strong foundation in web development. I specialize in creating responsive and user-friendly applications using HTML, CSS, JavaScript, and Python. Currently, I'm honing my skills in the MERN stack (MongoDB, Express.js, React, Node.js) to build scalable and modern web solutions.
+              I'm a passionate Junior Full-Stack Developer with a strong foundation in web development. I specialize in creating responsive and user-friendly applications using HTML, CSS, JavaScript. Currently, I'm honing my skills in the MERN stack (MongoDB, Express.js, React, Node.js) to build scalable and modern web solutions.
             </p>
             <p className="text-gray-300 text-base">
               With a knack for problem-solving and a commitment to learning, I thrive in collaborative environments and enjoy turning ideas into reality through code. When I'm not coding, you can find me exploring new tech trends or contributing to open-source projects on GitHub.
