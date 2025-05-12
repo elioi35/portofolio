@@ -50,7 +50,7 @@ const About = () => {
 
           <div className="mt-8 flex space-x-4 animate-fadeIn" style={{ animationDelay: '0.4s' }}>
             <IconContainer link='https://www.facebook.com/profile.php?id=100078417577734' children={<FaFacebookF />} />
-            <IconContainer link='https://www.linkedin.com/in/regi-mele-74ba54138/' children={<FaLinkedinIn />} />
+            <IconContainer link='https://www.linkremele-74ba54138/' children={<FaLinkedinIn />} />
             <IconContainer link='https://github.com/RegiMele' children={<FaGithub />} />
           </div>
         </div>
